@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container_main {
+  width: 960px;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+* {
+  font-family: "Ubuntu Mono", monospace;
+  -webkit-tap-highlight-color: transparent;
+ 
+}
+
+
+
+body {
+  background: #27272a;
+}
